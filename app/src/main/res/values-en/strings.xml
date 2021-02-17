@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tap Tap (en)</string>
+    <string name="meilleur_score">Best score:</string>
+    <string name="settings">Settings</string>
+    <string name="go">GO!</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="joueur">Player:</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="place_holder">test</string>
+    <string name="pseudo">Username:</string>
+    <string name="meilleur_temps">Best time:</string>
+    <string name="partager">Share</string>
+    <string name="r_nitialiser_le_meilleur_temps">Reset</string>
+    <string name="warning">Warning</string>
+    <string name="createur">Creator</string>
+    <string name="cercle_jaune">Yellow Circle</string>
+    <string name="cercle_noir">Black Circle</string>
+    <string name="sauvegarder_et_quitter">Save and quit</string>
+    <string name="landscape">landscape</string>
+    <string name="nom_d_utilisateur">User name</string>
+    <string name="mot_de_passe">Password</string>
+    <string name="se_connecter">Login</string>
+    <string name="message_erreur">Error_message</string>
+    <string name="business_man_avec_telephone">Business man with telephone</string>
+    <string name="illustration_by_icons8">Illustration by Icons8</string>
+    <string name="pecheur_avec_une_grosse_prise">Fisher man with big catch</string>
+</resources>
